@@ -1,0 +1,39 @@
+
+
+/* .main{
+    width: 400px;
+    margin-top: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+
+.button-class{
+    margin-top: 10px;
+} */
+
+/* 
+.container{
+    height: 400px;
+    width: 500px;
+    margin-left: 650px;
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+} */
+
+
+.parent{
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.component1-parent {
+  display: grid;
+  gap: 16px;
+  margin-left: 600px;
+}
